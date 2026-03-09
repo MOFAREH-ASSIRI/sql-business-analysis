@@ -1,4 +1,4 @@
-*Key Insights
+Key Insights
 
 • Software products generate the highest revenue per order, indicating strong pricing power compared to other categories.
 
@@ -8,7 +8,8 @@
 
 • Discounts increase order volume but reduce overall profit margin when overused, suggesting careful discount strategy is needed.
 
-*Business Recommendations
+
+Business Recommendations
 
 • Prioritize enterprise customer acquisition strategies.
 • Focus marketing campaigns on high-performing software products.
