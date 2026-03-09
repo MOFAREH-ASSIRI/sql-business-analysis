@@ -1,18 +1,18 @@
 # SQL Business Analysis
 
-## Goal
-Analyze ecommerce sales data using SQL and answer core business questions around revenue, product performance, and customer value.
+This project analyzes business data using SQL to uncover revenue trends, customer behavior, and segmentation insights.
 
-## Skills Demonstrated
-- SQL joins, aggregations, and date functions
-- Revenue trend analysis
-- Customer segmentation
-- Product category performance
+## Tools Used
+- SQL
+- CSV dataset
+- GitHub
 
-## Files
-- `data/` sample CSVs
-- `SQL_queries.sql` reusable query pack
-- `outputs/insights.md` summary of findings
+## Project Files
+- `SQL_queries.sql` → SQL queries used in the analysis
+- `dataset.csv` → sample dataset
+- `insights.md` → business findings and recommendations
 
-## Suggested Next Step
-Load the CSVs into PostgreSQL, BigQuery, or SQLite and run the queries.
+## Key Insights
+- Identified top-performing customer segments
+- Analyzed monthly revenue trends
+- Highlighted repeat customer behavior
