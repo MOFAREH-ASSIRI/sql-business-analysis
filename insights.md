@@ -1,6 +1,7 @@
-# Insights
+• Software products generate the highest revenue per order, indicating strong pricing power compared to other categories.
 
-- Software products generate the highest revenue per order.
-- Enterprise customers produce larger lifetime value than SMB customers.
-- Monthly revenue is uneven, suggesting seasonality or campaign dependence.
-- Discounts help volume, but excessive discounting reduces margin.
+• Enterprise customers deliver significantly higher lifetime value than SMB customers, suggesting a high ROI focus on enterprise acquisition.
+
+• Monthly revenue shows uneven distribution, indicating possible seasonality or marketing campaign influence.
+
+• Discounts increase order volume but reduce overall profit margin when overused, suggesting careful discount strategy is needed.
