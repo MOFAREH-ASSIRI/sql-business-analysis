@@ -1,0 +1,101 @@
+customer_id,country,segment,signup_date
+1,Saudi Arabia,SMB,2023-10-09
+2,UAE,SMB,2023-05-23
+3,Saudi Arabia,Mid-Market,2024-07-12
+4,Saudi Arabia,Mid-Market,2024-03-08
+5,Saudi Arabia,SMB,2023-04-06
+6,UAE,SMB,2024-06-01
+7,USA,SMB,2024-07-28
+8,UAE,Mid-Market,2024-10-27
+9,USA,Enterprise,2023-08-14
+10,UK,Mid-Market,2023-10-12
+11,Saudi Arabia,SMB,2024-03-08
+12,Egypt,Enterprise,2023-06-09
+13,UAE,Enterprise,2023-04-15
+14,Saudi Arabia,Enterprise,2023-04-10
+15,Egypt,Enterprise,2024-09-10
+16,Egypt,SMB,2024-04-15
+17,USA,SMB,2024-01-23
+18,Saudi Arabia,Mid-Market,2023-10-28
+19,USA,Enterprise,2024-08-14
+20,UAE,Mid-Market,2023-03-13
+21,Saudi Arabia,Mid-Market,2023-08-22
+22,Egypt,SMB,2023-08-27
+23,Saudi Arabia,Enterprise,2023-10-12
+24,UK,Mid-Market,2024-01-09
+25,UAE,Enterprise,2023-12-30
+26,UAE,Mid-Market,2023-10-01
+27,Saudi Arabia,Mid-Market,2024-10-12
+28,UAE,Mid-Market,2023-09-08
+29,UAE,Enterprise,2024-01-24
+30,Egypt,Mid-Market,2024-07-24
+31,UAE,Mid-Market,2023-11-29
+32,Saudi Arabia,SMB,2023-02-02
+33,Egypt,Enterprise,2023-10-02
+34,Saudi Arabia,SMB,2024-08-03
+35,Egypt,SMB,2024-11-02
+36,UK,Enterprise,2024-10-20
+37,UK,SMB,2023-09-29
+38,UAE,SMB,2024-07-28
+39,USA,Enterprise,2024-08-21
+40,UK,Mid-Market,2024-02-13
+41,Egypt,SMB,2023-05-22
+42,USA,Enterprise,2023-04-04
+43,Saudi Arabia,SMB,2023-06-06
+44,UAE,Mid-Market,2024-03-08
+45,USA,SMB,2024-01-30
+46,UK,Mid-Market,2024-04-24
+47,USA,Enterprise,2024-07-20
+48,Saudi Arabia,Mid-Market,2023-04-28
+49,USA,Enterprise,2024-10-18
+50,Egypt,SMB,2023-10-28
+51,UK,SMB,2024-04-09
+52,Saudi Arabia,Mid-Market,2023-09-27
+53,USA,SMB,2024-06-03
+54,Saudi Arabia,Mid-Market,2023-11-02
+55,USA,Mid-Market,2023-07-23
+56,UAE,Enterprise,2023-06-15
+57,USA,Mid-Market,2023-01-01
+58,USA,Enterprise,2024-05-15
+59,Saudi Arabia,SMB,2024-01-07
+60,Egypt,SMB,2023-03-01
+61,UAE,Mid-Market,2023-03-22
+62,Saudi Arabia,Mid-Market,2024-05-12
+63,Saudi Arabia,Mid-Market,2023-05-09
+64,UAE,Mid-Market,2024-05-01
+65,USA,SMB,2023-09-29
+66,USA,Mid-Market,2024-03-09
+67,UAE,Mid-Market,2023-07-25
+68,Egypt,Enterprise,2024-11-18
+69,Egypt,Enterprise,2024-06-13
+70,UK,SMB,2023-09-11
+71,UAE,SMB,2023-12-13
+72,Saudi Arabia,Mid-Market,2024-07-21
+73,UAE,Mid-Market,2023-08-14
+74,Saudi Arabia,SMB,2024-10-08
+75,Saudi Arabia,SMB,2023-03-11
+76,Saudi Arabia,Enterprise,2023-03-14
+77,USA,SMB,2023-10-13
+78,UK,SMB,2024-07-06
+79,UAE,Mid-Market,2024-08-07
+80,USA,Enterprise,2023-09-06
+81,UK,Enterprise,2023-07-14
+82,Saudi Arabia,SMB,2024-11-05
+83,UK,Enterprise,2024-03-09
+84,UK,Enterprise,2023-02-25
+85,Saudi Arabia,SMB,2024-02-17
+86,Egypt,SMB,2023-09-12
+87,UAE,SMB,2024-07-03
+88,UK,SMB,2024-03-08
+89,UAE,Enterprise,2024-04-18
+90,UAE,SMB,2024-03-29
+91,USA,SMB,2023-02-21
+92,USA,SMB,2023-04-06
+93,UAE,SMB,2024-02-21
+94,UK,Enterprise,2023-08-07
+95,UK,SMB,2023-06-18
+96,UK,SMB,2024-02-04
+97,Egypt,Enterprise,2023-10-20
+98,UK,Mid-Market,2024-07-23
+99,UK,SMB,2023-07-14
+100,Egypt,SMB,2023-03-01
